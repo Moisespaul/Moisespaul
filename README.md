@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moisespaul
-- 👀 I’m interested in hike, bike, code and learn things
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on interesting project to help people.
+- 👀 I’m interested in hiking, biking, coding and learning things
+- 🌱 I’m currently learning Data Analyst
+- 💞️ I’m looking to collaborate on an interesting project to help people.
 - 📫 How to reach me by social media @moisespaul
 
 <!---
